@@ -1,0 +1,18 @@
+{
+  "name": "js-members",
+  "version": "1.0.0",
+  "description": "Sample data retrieval from an api",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "keywords": [
+    "api"
+  ],
+  "author": "Brian Vazquez",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.1"
+  }
+}
